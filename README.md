@@ -11,16 +11,16 @@
 	
 ## Demo
 ### Screenshots of the App	
-! (0.jpg.png) </br>
-! (1.jpg.png) </br>
-! (2.jpg) </br>
-(3.jpg) </br>
-(4.jpg) </br>
-(5.jpg) </br>
-(6.jpg) </br>
-(7.jpg) </br>	
-(8.jpg) </br>
-(9.jpg) </br>
-(10.jpg) </br>
-(11.jpg) </br>
-(12.jpg) </br>
+(0.png) </br>
+(1.png) </br>
+(2.png) </br>
+(3.png) </br>
+(4.png) </br>
+(5.png) </br>
+(6.png) </br>
+(7.png) </br>	
+(8.png) </br>
+(9.png) </br>
+(10.png) </br>
+(11.png) </br>
+(12.png) </br>
